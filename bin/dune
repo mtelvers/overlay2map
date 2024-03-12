@@ -1,0 +1,4 @@
+(executable
+ (public_name overlay2map)
+ (name main)
+ (libraries unix))
